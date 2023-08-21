@@ -4,7 +4,7 @@ My name is Ryan Tansey and I am a graduate from the University of Waikato. I gra
 
 Currently I am working on side projects to keep my programming up
 
-My prefered languages are
+My prefered languages are:
 - Java
 - C#
 - Swift (Currently learning through my BasicAdditionsApp project)
