@@ -9,5 +9,4 @@ My prefered languages are:
 - C#
 - Swift (Currently learning through my BasicAdditionsApp project)
 
-Please feel free to ask me about the projects I am working on not all are public.
 Find me on LinkedIn: www.linkedin.com/in/ryanktansey
